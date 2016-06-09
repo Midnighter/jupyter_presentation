@@ -29,6 +29,10 @@ command in a terminal. Please enjoy playing with sliders ;)
 * [A gallery](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#introductory-tutorials) of notebooks with really broad topic areas.
 * [Javascript extensions](https://github.com/ipython-contrib/IPython-notebook-extensions/wiki/Home-4.x-%28Jupyter%29) that can make your life easier (or more interesting).
 
+## Widgets
+
+* [More examples](https://github.com/ipython/ipywidgets/blob/master/docs/source/examples/Index.ipynb) are available from the ipywidgets package itself.
+
 ## Multi-user Setting
 
 * The [JupyterHub](https://jupyterhub.readthedocs.io/en/latest/).
