@@ -9,6 +9,11 @@ The following files form the basis for an interactive presentation of the Jupyte
 5. The notebook allows for the inclusion of plots making it a fantastic tool for generating data analysis reports ([Notebook](plots.ipynb)).
 6. Interactive widgets increase the usefulness of the notebook as a reporting tool since data can be investigated more thoroughly without editing code ([Notebook](interact.ipynb)).
 
+I realized that for the interactive widgets I needed to issue the following
+command in a terminal. Please enjoy playing with sliders ;)
+
+    jupyter nbextension enable --py widgetsnbextension
+
 # Resources
 
 ## General
